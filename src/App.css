@@ -1,0 +1,45 @@
+h1 {
+    color:white;
+    text-align: left;
+    font-family: cursive;
+    font-size: 40px;
+}
+table {
+    border:1px solid white;
+    width: 100%;
+}
+
+th, td {
+    
+    color:white;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(){
+    background-color: gray;
+    font-family: sans-serif;
+
+}
+
+th {
+     color: white;
+}
+tr{
+    font-family: sans-serif;
+    size: 20px;
+}
+button{
+    background-color: red;
+    text-align: center;
+    color:white;
+    font-size:16px;
+    float:left;
+
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
